@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "AA581EC6-11AB-417C-8E28-BFBD04FAC6CA",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FirstApp.xcodeproj",
+      "identifier" : "3630B6CC2765BFD0002281C3",
+      "name" : "FirstApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:FirstApp.xcodeproj",
+        "identifier" : "361CC42D27CE230C0013D955",
+        "name" : "FirstAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
